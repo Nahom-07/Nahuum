@@ -19,9 +19,9 @@ Graphics designer
 
 ## Get in Touch 📬
 
-- **[https://sites.google.com/view/vexl/home]**(your_website_or_blog_link)
-- **[www.linkedin.com/in/nssamson]**(your_linkedin_profile_link)
-- **[https://x.com/nsgrsamson]**(your_twitter_profile_link)
+- **[https://sites.google.com/view/vexl/home]**
+- **[www.linkedin.com/in/nssamson]**
+- **[https://x.com/nsgrsamson]**
 
 
 # Nahuum
